@@ -12,6 +12,7 @@ I’m a Data Analyst with a background in Business Development, Sales, and Growt
 +45% market share increase in my assigned territory as a Business Development professional.
 
 Recognized for creating high-quality analytical reports and data-driven strategies.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
