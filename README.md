@@ -14,3 +14,11 @@ I’m a Data Analyst with a background in Business Development, Sales, and Growt
 Recognized for creating high-quality analytical reports and data-driven strategies.
 
 ---
+
+🚀 Habilidades
+
+∙ Python (Pandas, Matplotlib, Seaborn, Numpy, Scipy)
+∙ SQL (consultas, modelagem e bancos de dados relacionais)
+∙ Tableau, Power BI (dashboards interativos e visualização de dados)
+∙ Data Cleaning e Pré-processamento
+∙ Análise Exploratória e Estatística
