@@ -26,97 +26,58 @@ Recognized for creating high-quality analytical reports and data-driven strategi
 
 ## 🏆 Featured Projects
 
-### 🎮 Video Game Sales Analysis
+### 🎮 Video Game Sales Analysis - Python
 
-Exploratory analysis of historical video game sales to identify market trends, regional preferences, and factors associated with commercial success.
+Exploratory analysis of historical video game sales to identify market trends, regional preferences, and the factors associated with commercial success. The project includes data cleaning, feature engineering, exploratory data analysis, visualization, and statistical hypothesis testing to support business decision-making.
 
-**Skills**
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- SciPy
-- Statistical Analysis
+**Skills:** Python, Pandas, NumPy, Matplotlib, SciPy, Statistical Analysis
 
 ---
 
-### 📊 Business Performance Dashboard
+### 🛒 Customer Purchase Behavior & Revenue Analysis – Python
 
-Interactive dashboard designed to monitor KPIs, operational performance, and business outcomes through interactive visualizations.
+End-to-end analysis of customer purchasing behavior in an e-commerce environment to identify the factors influencing customer spending and revenue generation. The project includes data cleaning, exploratory data analysis, statistical hypothesis testing, and correlation analysis to evaluate customer engagement, discount strategies, and purchasing patterns, providing actionable business recommendations.
 
-**Skills**
-- Tableau
-- Power Query
-- KPI Design
-- Data Visualization
+**Skills:** Python, Pandas, NumPy, Matplotlib, SciPy, Exploratory Data Analysis, Statistical Analysis, Correlation Analysis, Data Visualization
+---
+
+### 🌱 AgroSales Planner – Fertilizer Sales Prioritization – Python & Tableau
+
+Business analytics project developed to support commercial planning and sales prioritization in the agricultural sector. The analysis combines data cleaning, exploratory analysis, and interactive visualization to identify high-impact sales opportunities based on demand, inventory, seasonality, and regional performance.
+
+**Skills:** Python, Pandas, Tableau, Excel, Exploratory Data Analysis, Business Analytics, Sales Analytics, Data Visualization
 
 ---
 
-### 📈 Customer & Sales Analytics
+## 📈 Portfolio Snapshot
 
-End-to-end analysis exploring customer behavior and sales performance using Python and SQL.
-
-**Skills**
-- SQL
-- Python
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Storytelling
+- End-to-end analytics projects covering data preparation, exploratory analysis, statistical testing, and business storytelling
+- Business intelligence dashboards built with Power BI and Tableau for KPI monitoring and performance analysis
+- Analytics projects focused on customer behavior, sales performance, market trends, and operational decision-making
+- Strong foundation in Python, SQL, statistical analysis, and data visualization for business applications
 
 ---
 
-## 📈 Professional Highlights
+## 🌱 Currently Learning
 
-- Business Performance Analysis
-- KPI Monitoring & Reporting
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Dashboard Development
-- Data Storytelling
-- Business Intelligence
+- **Product Analytics:** Product metrics, user behavior analysis, experimentation, and A/B testing.
+- **Advanced SQL:** Complex queries, window functions, CTEs, and performance optimization.
+- **Machine Learning:** Supervised learning, model evaluation, and predictive analytics using Scikit-Learn.
+- **Statistics for Data Analytics:** Hypothesis testing, probability distributions, confidence intervals, and statistical inference.
+- **Data Storytelling:** Communicating business insights through dashboards and effective data visualization.
 
 ---
 
-## 🌱 Areas of Interest
+### Languages & Tools
 
-- Product Analytics
-- Customer Analytics
-- Experimentation & A/B Testing
-- Business Intelligence
-- Machine Learning
-- Predictive Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
+</p>
 
----
-
-## 🛠️ Technical Skills
-
-### Languages
-
-- Python
-- SQL
-
-### Data Analysis
-
-- Pandas
-- NumPy
-- SciPy
-
-### Visualization
-
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-- Excel
-
-### Databases
-
-- PostgreSQL
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
