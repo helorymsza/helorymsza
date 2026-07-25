@@ -39,6 +39,7 @@ Exploratory analysis of historical video game sales to identify market trends, r
 End-to-end analysis of customer purchasing behavior in an e-commerce environment to identify the factors influencing customer spending and revenue generation. The project includes data cleaning, exploratory data analysis, statistical hypothesis testing, and correlation analysis to evaluate customer engagement, discount strategies, and purchasing patterns, providing actionable business recommendations.
 
 **Skills:** Python, Pandas, NumPy, Matplotlib, SciPy, Exploratory Data Analysis, Statistical Analysis, Correlation Analysis, Data Visualization
+
 ---
 
 ### 🌱 AgroSales Planner – Fertilizer Sales Prioritization – Python & Tableau
