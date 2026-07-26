@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-I'm a Data Analyst based in Portugal with experience in business performance analysis, KPI monitoring, and decision support.
+I’m a Data Analyst based in Portugal with experience in business performance analysis, KPI monitoring, and decision support using Python, SQL, Power BI, Tableau, and Excel.
 
-I have a background in Business Development, Sales, and Growth Strategy. My journey has given me both an analytical mindset and a strategic approach, combining analytical thinking with business understanding, turning data into actionable insights that drive real business impact.
+I have a background in Business Development, Sales, and Growth Strategy. My journey has given me both an analytical mindset and a strategic approach, combining analytical thinking with business understanding to turn data into actionable insights that drive real business impact.
 
-I enjoy working across the entire analytics workflow—from data cleaning and exploratory analysis to visualization and statistical analysis—to transform complex datasets into clear, actionable insights.
+I enjoy working across the entire analytics workflow, from data cleaning and exploratory data analysis with Python (Pandas and NumPy) to data visualization with Power BI, Tableau, and Matplotlib, as well as statistical analysis using SciPy, transforming complex datasets into clear, actionable insights.
 
 🎯 Career Highlights:
 
